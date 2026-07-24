@@ -19,10 +19,10 @@ FastAPI
 Features:
 cart (panier)
 authentication (signup/login/logout)
-payment checkout
+stock management (static)
 
 --------------------------------
 In progress:
 delivery (livraison)
-stock management
+payment API
 chatbot
