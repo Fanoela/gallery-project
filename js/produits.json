@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "name": "Milky Way",
+        "artist": "Elena Rostova",
+        "price": 100,
+        "image": "img/1.jpeg",
+        "stock":7,
+        "descr": "A mesmerizing oil painting that captures the vast, enchanting expanse of the nocturnal cosmos through layered blending and luminous highlights. Deep, velvet blues and vibrant indigos sweep across the canvas to form swirling nebulas, while tiny, painstakingly applied flecks of starlight glow softly against the dark background. The artist skillfully uses gradual light gradients to create a sense of infinite depth, inviting viewers into an ethereal interstellar landscape that feels both quiet and immense. Perfect for adding a touch of cosmic wonder and calm contemplation to any modern living space."
+    },
+    {
+        "id": 1,
+        "name": "The Butterfly",
+        "artist": "Marcus Vance",
+        "price": 150,
+        "image": "img/2.jpeg",
+        "stock":1,
+        "descr": "An exquisite watercolor illustration that celebrates the delicate grace and breathtaking geometry of nature in motion. Vibrant, iridescent wings stretch across the paper with gossamer lightness, rendered in rich blues, emerald greens, and fiery ambers that bleed softly into one another. The soft pastel gradient in the background provides a subtle, atmospheric contrast, making the creature appear as though it is caught mid-flutter in a sun-dappled dreamscape. Every line and wash of paint emphasizes the fragile elegance of the subject, bringing a refreshing sense of balance, color, and life to its surrounding environment."
+    },
+    {
+        "id": 2,
+        "name": "Visage",
+        "artist": "Aria Chen",
+        "price": 120,
+        "image": "img/3.jpeg",
+        "stock":2,
+        "descr": "A striking modern portrait that strips away excess detail to focus on raw emotion and geometric harmony. Through crisp, continuous line art and carefully placed monotone shadows, the artwork constructs a subtle face that seems to look beyond the canvas with quiet introspection. The interaction between sharp angular planes and soft, muted tones gives the piece a timeless, avant-garde appeal that fits effortlessly into contemporary interiors. It serves as an intriguing visual puzzle, encouraging onlookers to project their own feelings and interpretations onto the calm, mysterious visage staring back at them."
+    },
+    {
+        "id": 3,
+        "name": "The Ink",
+        "artist": "Hiroshi Tanaka",
+        "price": 130,
+        "image": "img/4.jpeg",
+        "stock":2,
+        "descr": "A powerful monochrome ink wash painting that seamlessly bridges traditional Sumi-e calligraphy with aggressive, modern abstraction. Bold, sweeping strokes of jet-black ink collide with delicate, watery washes to create a dynamic sense of fluidity and controlled chaos across the stark white background. The interplay of negative space and dense tonal gradients gives the artwork an energetic, rhythmic presence that commands attention from any angle. It is an exploration of contrast, movement, and spontaneity, capturing the raw, elemental beauty of ink as it flows across the page."
+    },
+    {
+        "id": 4,
+        "name": "Magnificat",
+        "artist": "Sofia Thorne",
+        "price": 170,
+        "image": "img/5.jpeg",
+        "stock":4,
+        "descr": "A dramatic canvas heavily inspired by classical Baroque painting techniques, defined by its masterly use of extreme light and dark contrasts. Warm, theatrical light illuminates the central subject while deep, brooding shadows swallow the surrounding space, creating an intense atmosphere charged with reverence and emotion. Delicate hand-applied gold leaf accents catch the room's ambient light, adding a shimmering, luxurious dimension that shifts as you move past the painting. This piece brings a majestic, historical grandeur to contemporary spaces, serving as a captivating centerpiece for collectors of bold fine art."
+    },
+    {
+        "id": 5,
+        "name": "A Juicy World",
+        "artist": "Leo Sterling",
+        "price": 120,
+        "image": "img/6.jpeg",
+        "stock":8,
+        "descr": "A exuberant pop-art piece bursting with saturated neon hues, playful surrealism, and vibrant energy. The composition blends tropical foliage, retro graphic elements, and oversized fruit motifs into a dizzying yet carefully balanced kaleidoscope of fun and color. Glossy textures and high-contrast outlines make every detail pop off the canvas, infusing the room with an irresistible sense of optimism and creative freedom. Designed to evoke pure joy and youthful excitement, this artwork acts as an instant mood lifter and an unforgettable focal point in any eclectic or modern setting."
+    },
+    {
+        "id": 6,
+        "name": "Galaxies",
+        "artist": "Nadia Al-Mansoor",
+        "price": 100,
+        "image": "img/7.jpg",
+        "stock":4,
+        "descr": "An atmospheric mixed-media artwork that explores the rugged, tactile textures of deep space using heavy acrylic build-ups and metallic pigments. Scraped layers of charcoal black, violet, and deep cyan reveal glowing undertones beneath, creating a tactile surface that begs to be inspected up close. Scattered dustings of real bronze and silver speckles twinkle softly under direct light, mimicking distant star clusters lost in vast galactic dust clouds. This piece blends physical texture with cosmic abstraction, delivering a sophisticated visual experience that feels both grounded and otherworldly."
+    },
+    {
+        "id": 7,
+        "name": "Nature",
+        "artist": "Julian Hayes",
+        "price": 150,
+        "image": "img/8.jpg",
+        "stock":5,
+        "descr": "A breathtaking hyper-realistic digital painting that captures the minute details of the natural world with astonishing precision and warmth. Focus zooms in on a single monarch butterfly perched gracefully on a dew-kissed leaf, every tiny scale on its wings and vein pattern rendered with crisp clarity. The background dissolves into a soft, golden-hour bokeh blur, casting a serene, luminous glow over the entire scene. It is a quiet celebration of vitality and patience, offering a serene window into nature's simple, untouched majesty that brings peace to any room."
+    },
+    {
+        "id": 8,
+        "name": "Man in the mirror",
+        "artist": "Amara Okafor",
+        "price": 120,
+        "image": "img/9.jpg",
+        "stock":6,
+        "descr": "An deeply expressive impasto portrait crafted using heavy palette knife application, giving the canvas a sculpted, three-dimensional physical presence. Thick slabs of warm terra cotta, rich ochre, and deep crimson build up the subject's features, blending together right on the surface to reflect theme of self-examination and identity. The heavily textured paint catches natural light throughout the day, constantly changing the portrait's shadows and emotional intensity depending on the viewing angle. It stands as an intimate, soulful study of introspection that resonates strongly with fans of raw, tactile art."
+    },
+    {
+        "id": 9,
+        "name": "River",
+        "artist": "Soren Lindqvist",
+        "price": 130,
+        "image": "img/10.jpg",
+        "stock":4,
+        "descr": "A bold and uncompromising avant-garde abstract work that uses sprawling black ink splatters intersected by sharp, clean architectural lines to mimic the relentless force of flowing water. The dynamic tension between organic, uncontrolled drips and rigid, deliberate geometry creates a compelling visual dialogue about nature vs. human order. Dark, moody undertones are balanced by generous areas of stark white background, allowing the eye to trace the energetic movement of the 'river' across the composition. It is an impressive statement piece built for minimalist, urban, or industrial interiors."
+    }
+]
