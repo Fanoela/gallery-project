@@ -2,11 +2,14 @@ PROJET GALLERIE D'ART
 Fanoela Rabemanotrona
 INT
 -----------------------------
+Note:le serveur doit être lancé depuis le dossier 'backend', car uvicorn recherche main.py dans ce répertoire.
+
+----------------------------
 
 Frontend:
 HTML
 CSS
-Javascript
+Vanilla Javascript
 
 Database:
 MySQL
@@ -22,7 +25,7 @@ authentication (signup/login/logout)
 stock management (static)
 
 --------------------------------
-In progress:
+In progress (en cours):
 delivery (livraison)
 payment API
 chatbot
