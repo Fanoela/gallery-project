@@ -11,7 +11,7 @@ Pour tester le login (avec le backend et la base de donnees), le serveur doit ê
 cd backend
 uvicorn main:app --reload
 
-Un fichier env-example se situe dans le dossier backend, c'est un placeholder du fichier .env
+Un fichier env-example se situe dans le dossier backend, qui n'est evidemment pas le vrai fichier .env
 La base de donnees dump.sql se situe egalement dans le dossier backend.
 
 ------------------------------
@@ -35,9 +35,10 @@ authentication (signup/login/logout)
 stock management (static avec json)
 --------------------------------
 
-Note: la photo de couverture sur le banner ainsi que les textes de chaque description sont générés par IA
-
 In progress (en cours):
 delivery (livraison)
 payment API
 chatbot
+
+-----------------------------
+Note: la photo de couverture sur le banner ainsi que les textes de chaque description sont générés par IA
