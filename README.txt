@@ -35,6 +35,8 @@ authentication (signup/login/logout)
 stock management (static avec json)
 --------------------------------
 
+Note: la photo de couverture sur le banner ainsi que les textes de chaque description sont générés par IA
+
 In progress (en cours):
 delivery (livraison)
 payment API
